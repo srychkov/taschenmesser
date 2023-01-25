@@ -1,2 +1,84 @@
-cheatsheet
+# cheatsheet
 
+## https://kinsta.com/de/blog/linux-befehle/
+
+    - ls
+        - 
+    - alias
+        - 
+    - unalias
+        -
+    - pwd
+        -
+    - cd
+        -
+    - cp
+        - 
+    - rm
+        -
+    - mv
+        -
+    - mkdir
+        -
+    - man
+        -  
+    - touch
+        - 
+    - chmod
+        -
+    - ./
+        -
+    - exit
+        -
+    - sudo
+        -
+    - shutdown
+        -
+    - htop
+        -
+    - unzip
+        -
+    - apt, yum, pacman
+        -
+    - echo
+        -
+    - cat
+        -
+    - ps
+        -
+    - kill
+        -
+    - ping
+        -
+    - vim
+        -
+    - history
+        -
+    - passwd
+        -
+    - which
+        -
+    - shred
+        -
+    - less
+        -
+    - tail
+        -
+    - head
+        -
+    - grep
+        -
+    - whoami
+        -
+    - whatis
+        -
+    - wc
+        -
+    - uname
+        -
+    - neofetch
+        -
+    - find
+        -
+    - wget
+        -
